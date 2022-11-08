@@ -28,7 +28,7 @@ All of these terms refer to an application for issuing commands in text to your 
 
 * [Try out Quarto in RStudio Cloud](https://rstudio.cloud/content/4917392)
 * NOAA Quarto simple website with R in qmd or Rmd files [GitHub source](https://github.com/nmfs-opensci/NOAA-quarto-simple) | [website](https://nmfs-opensci.github.io/NOAA-quarto-simple/)
-NOAA Quarto book with R and download PDF or docx [GitHub source](https://github.com/nmfs-opensci/NOAA-quarto-book) | [website](https://nmfs-opensci.github.io/NOAA-quarto-book/)
-DRAFT Quarto template to create a pdf with the elements for a NOAA Tech Memo [GitHub source](https://github.com/nmfs-opensci/NOAA-tech-memo-template) | [report pdf](https://nmfs-opensci.github.io/NOAA-tech-memo-template/An-example-report.pdf)
+* NOAA Quarto book with R and download PDF or docx [GitHub source](https://github.com/nmfs-opensci/NOAA-quarto-book) | [website](https://nmfs-opensci.github.io/NOAA-quarto-book/)
+* DRAFT Quarto template to create a pdf with the elements for a NOAA Tech Memo [GitHub source](https://github.com/nmfs-opensci/NOAA-tech-memo-template) | [report pdf](https://nmfs-opensci.github.io/NOAA-tech-memo-template/An-example-report.pdf)
 
 
