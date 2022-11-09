@@ -32,8 +32,7 @@ This focuses on vanilla data science (R or Python) set-up with Quarto. [Slides](
 * NOAA Quarto simple website with R in qmd or Rmd files [GitHub source](https://github.com/nmfs-opensci/NOAA-quarto-simple) -- [website](https://nmfs-opensci.github.io/NOAA-quarto-simple/) -- [Try it in RStudio Cloud](https://rstudio.cloud/content/4771757)
 * NOAA Quarto book with R and download PDF or docx [GitHub source](https://github.com/nmfs-opensci/NOAA-quarto-book) -- [website](https://nmfs-opensci.github.io/NOAA-quarto-book/) -- [Try it in RStudio Cloud](https://rstudio.cloud/content/4838825)
 * DRAFT Quarto template to create a pdf with the elements for a NOAA Tech Memo [GitHub source](https://github.com/nmfs-opensci/NOAA-tech-memo-template) -- [report pdf](https://nmfs-opensci.github.io/NOAA-tech-memo-template/An-example-report.pdf)
-* QuartoReport_SE: Report with tables in a for loop. [Repo](https://github.com/RVerse-Tutorials/QuartoReport_SE) -- [T
-ry it in RStudio Cloud](https://rstudio.cloud/content/4340405) -- [Video on collaboration](https://youtu.be/WvKw1OQIpMk)
+* QuartoReport: Report with tables in a for loop. [Repo](https://github.com/nmfs-opensci/QuartoReport) -- [Try it in RStudio Cloud](https://rstudio.cloud/content/4925654) -- [Video on collaboration](https://youtu.be/WvKw1OQIpMk)
 * Similar solution of tables in for loops by Megsie [https://github.com/MargaretSiple-NOAA/parameterized-indexing-example](https://github.com/MargaretSiple-NOAA/parameterized-indexing-example)
 * QmdReport: Example of tables with different packages (kable, flextable, qt)  [Repo](https://github.com/RVerse-Tutorials/QmdReport) -- [Try it in RStudio Cloud](https://rstudio.cloud/content/4308300)
 
