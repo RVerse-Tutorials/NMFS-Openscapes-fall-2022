@@ -32,9 +32,10 @@ This focuses on vanilla data science (R or Python) set-up with Quarto. [Slides](
 * NOAA Quarto simple website with R in qmd or Rmd files [GitHub source](https://github.com/nmfs-opensci/NOAA-quarto-simple) -- [website](https://nmfs-opensci.github.io/NOAA-quarto-simple/) -- [Try it in RStudio Cloud](https://rstudio.cloud/content/4771757)
 * NOAA Quarto book with R and download PDF or docx [GitHub source](https://github.com/nmfs-opensci/NOAA-quarto-book) -- [website](https://nmfs-opensci.github.io/NOAA-quarto-book/) -- [Try it in RStudio Cloud](https://rstudio.cloud/content/4838825)
 * DRAFT Quarto template to create a pdf with the elements for a NOAA Tech Memo [GitHub source](https://github.com/nmfs-opensci/NOAA-tech-memo-template) -- [report pdf](https://nmfs-opensci.github.io/NOAA-tech-memo-template/An-example-report.pdf)
-* Report with tables in a for loop. [QuartoReport_SE](https://rstudio.cloud/content/4340405) [Repo](https://github.com/RVerse-Tutorials/QuartoReport_SE)
+* QuartoReport_SE: Report with tables in a for loop. [Repo](https://github.com/RVerse-Tutorials/QuartoReport_SE) -- [T
+ry it in RStudio Cloud](https://rstudio.cloud/content/4340405) -- [Video on collaboration](https://youtu.be/WvKw1OQIpMk)
 * Similar solution of tables in for loops by Megsie [https://github.com/MargaretSiple-NOAA/parameterized-indexing-example](https://github.com/MargaretSiple-NOAA/parameterized-indexing-example)
-* Example of tables with different packages [QmdReport](https://rstudio.cloud/content/4308300) [Repo](https://github.com/RVerse-Tutorials/QmdReport)
+* QmdReport: Example of tables with different packages (kable, flextable, qt)  [Repo](https://github.com/RVerse-Tutorials/QmdReport) -- [Try it in RStudio Cloud](https://rstudio.cloud/content/4308300)
 
 *FAQ. Why switch to Quarto from RMarkdown. 1) Seamless cross-format (html, pdf, docx) support with accessibility (508 compliance) baked in, 2) active community development happening in Quarto with more to come as it has cross-language (R, Python, Julia, etc) support, 3) No more headaches with cross-references, 4) Much better citation support, 5) backcompatibility with RMarkdown means the transition is not too hard.*
 
