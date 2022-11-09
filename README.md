@@ -29,8 +29,8 @@ This focuses on vanilla data science (R or Python) set-up with Quarto. [Slides](
 [Notes from our co-work session](https://docs.google.com/document/d/1OAt4_b10BlWWcm64OrE1DCbwzXAfa4N0dIAbwbESLA0/edit#bookmark=id.qxzz5bwkx2w)
 
 * [Try out Quarto in RStudio Cloud](https://rstudio.cloud/content/4917392)
-* NOAA Quarto simple website with R in qmd or Rmd files [GitHub source](https://github.com/nmfs-opensci/NOAA-quarto-simple) -- [website](https://nmfs-opensci.github.io/NOAA-quarto-simple/) -- [Try it in RStudio Cloud](https://rstudio.cloud/content/4838825)
-* NOAA Quarto book with R and download PDF or docx [GitHub source](https://github.com/nmfs-opensci/NOAA-quarto-book) -- [website](https://nmfs-opensci.github.io/NOAA-quarto-book/) -- [Try it in RStudio Cloud](https://rstudio.cloud/content/4771757)
+* NOAA Quarto simple website with R in qmd or Rmd files [GitHub source](https://github.com/nmfs-opensci/NOAA-quarto-simple) -- [website](https://nmfs-opensci.github.io/NOAA-quarto-simple/) -- [Try it in RStudio Cloud](https://rstudio.cloud/content/4771757)
+* NOAA Quarto book with R and download PDF or docx [GitHub source](https://github.com/nmfs-opensci/NOAA-quarto-book) -- [website](https://nmfs-opensci.github.io/NOAA-quarto-book/) -- [Try it in RStudio Cloud](https://rstudio.cloud/content/4838825)
 * DRAFT Quarto template to create a pdf with the elements for a NOAA Tech Memo [GitHub source](https://github.com/nmfs-opensci/NOAA-tech-memo-template) -- [report pdf](https://nmfs-opensci.github.io/NOAA-tech-memo-template/An-example-report.pdf)
 * Report with tables in a for loop. [QuartoReport_SE](https://rstudio.cloud/content/4340405) [Repo](https://github.com/RVerse-Tutorials/QuartoReport_SE)
 * Similar solution of tables in for loops by Megsie [https://github.com/MargaretSiple-NOAA/parameterized-indexing-example](https://github.com/MargaretSiple-NOAA/parameterized-indexing-example)
