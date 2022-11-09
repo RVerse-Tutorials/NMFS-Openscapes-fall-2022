@@ -17,7 +17,7 @@ All of these terms refer to an application for issuing commands in text to your 
 
 ## Setting up a computer
 
-[Slides](https://docs.google.com/presentation/d/1etefazCaRr971rdUSFUA99sIp6YNrQxQR1UsUohabd0/edit?usp=sharing)
+This focuses on vanilla data science (R or Python) set-up with Quarto. [Slides](https://docs.google.com/presentation/d/1etefazCaRr971rdUSFUA99sIp6YNrQxQR1UsUohabd0/edit?usp=sharing)
 
 * Windows/PC R, RStudio and Quarto  (4 minutes) [https://youtu.be/6A5J3gYJXgc](https://youtu.be/6A5J3gYJXgc)
 * Mac R, RStudio and Quarto. (2.5 minutes) [https://youtu.be/iQiUfZErFiQ](https://youtu.be/iQiUfZErFiQ)
@@ -35,5 +35,7 @@ All of these terms refer to an application for issuing commands in text to your 
 * Report with tables in a for loop. [QuartoReport_SE](https://rstudio.cloud/content/4340405) [Repo](https://github.com/RVerse-Tutorials/QuartoReport_SE)
 * Similar solution of tables in for loops by Megsie [https://github.com/MargaretSiple-NOAA/parameterized-indexing-example](https://github.com/MargaretSiple-NOAA/parameterized-indexing-example)
 * Example of tables with different packages [QmdReport](https://rstudio.cloud/content/4308300) [Repo](https://github.com/RVerse-Tutorials/QmdReport)
+
+*FAQ. Why switch to Quarto from RMarkdown. 1) Seamless cross-format (html, pdf, docx) support with accessibility (508 compliance) baked in, 2) active community development happening in Quarto with more to come as it has cross-language (R, Python, Julia, etc) support, 3) No more headaches with cross-references, 4) Much better citation support, 5) backcompatibility with RMarkdown means the transition is not too hard.*
 
 
