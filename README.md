@@ -40,4 +40,4 @@ This focuses on vanilla data science (R or Python) set-up with Quarto. [Slides](
 
 # Googledrive Tutorials
 
-* {trackdown} demo [package](https://cran.r-project.org/web/packages/trackdown/) -- [Video of my demo]([https://youtu.be/GDOyarXmgzA](https://youtu.be/qsko12mBLi4)) -- [demo file](https://github.com/RVerse-Tutorials/googledrive-examples/blob/main/trackdown-example.Rmd)
+* {trackdown} demo [package](https://cran.r-project.org/web/packages/trackdown/) -- [Video of my demo](https://youtu.be/qsko12mBLi4) -- [demo file](https://github.com/RVerse-Tutorials/googledrive-examples/blob/main/trackdown-example.Rmd)
